@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InjectionSimulator", "InjectionSimulator\InjectionSimulator.csproj", "{DFEA961C-BACC-4E1A-89DE-1FFBCA1E45D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InjectionSimulatorTest", "InjectionSimulatorTest\InjectionSimulatorTest.csproj", "{4D944AE4-29B6-451D-AA02-F63B188557E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFEA961C-BACC-4E1A-89DE-1FFBCA1E45D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFEA961C-BACC-4E1A-89DE-1FFBCA1E45D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFEA961C-BACC-4E1A-89DE-1FFBCA1E45D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFEA961C-BACC-4E1A-89DE-1FFBCA1E45D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D944AE4-29B6-451D-AA02-F63B188557E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D944AE4-29B6-451D-AA02-F63B188557E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D944AE4-29B6-451D-AA02-F63B188557E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D944AE4-29B6-451D-AA02-F63B188557E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A943B74B-25C0-49BC-9855-88359B8506A3}
+	EndGlobalSection
+EndGlobal
